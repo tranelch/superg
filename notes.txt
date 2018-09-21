@@ -1,0 +1,8 @@
+* Missing new small version of Furniture-36.jpg, Furniture-40.jpg
+* Exhibits files are much smaller dimensions in the smaller file size versions - doesn't seem to be a problem with the other galleries
+* We never did flyout navigation
+* Working philosophy is the only one with the bottom border on the page header (leaving)
+* Web Design & Image Credits
+* Creating space page incomplete
+
+about-team-g.html - center text with the boxes

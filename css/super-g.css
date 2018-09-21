@@ -1,0 +1,500 @@
+body {
+  background: #660B00 url('/images/wood-grain-with-fade.jpg') no-repeat fixed top center; 
+}
+
+a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #ccc0c0;
+  text-decoration: none;
+}
+
+small {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 12px;
+}
+
+#content {
+  background:url('/images/content-bg-669900-80-percent-opacity.png');
+  margin: 0 auto 40px;
+  margin-top: 48px;
+  min-height: 600px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+}
+
+#logo-nav-wrapper {
+  width: 160px;
+  margin-left: -95px;
+  margin-top: -24px;
+  margin-right: 0;
+}
+
+#logo-and-site-nav {  
+  border: 6px solid #fff;
+  background: #c30;
+  text-align: center;
+}
+
+#add-this {
+  padding-left: 0px; 
+  margin: 7px auto 20px 35px;
+}
+
+#logo-and-site-nav h1#logo {
+  background: url('/images/logo-lighter.png') no-repeat top center;
+  width: 144px;
+  height: 162px;
+  margin: 10px 8px;
+  
+  text-indent: -9999px;
+}
+
+#logo-and-site-nav h1#logo a {
+  display: block;
+  /*text-indent: -9999px;*/
+  width: 144px;
+  height: 162px;
+  margin: 0;
+}
+
+#site-nav {
+  margin: 40px 0 20px;
+  padding: 0;
+  color: #fff;
+}
+
+#site-nav li {
+  list-style: none;
+  text-align: right;
+  margin-right: 10px;
+  margin-top: 5px;
+  font-size: 16px;
+  line-height: 110%;
+}
+
+#site-nav li a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+}
+
+#site-nav li a:hover {
+  color: #ccc0c0;
+  text-decoration: none;
+}
+
+#services ul {
+  background: url('/images/scroll.png') no-repeat;
+  height: 162px;
+  width: 800px;
+  float: left;
+  margin: 15px 0 0 15px;
+  padding: 0;
+  color: #fff;
+}
+
+#services ul li {
+  font-family: Verdana, Arial, sans-serif;
+  float: left;
+  list-style: none;
+  margin-right: 40px;
+  margin-top: 30px;
+  width: 140px;
+  font-size: 17px;
+  line-height: 95%;
+  text-align: right;
+  letter-spacing: 1px;
+}
+
+#services ul li:last-child {
+  width: 90px;
+  margin-right: 80px;
+}
+
+#services a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#services a:hover {
+  color: #ccc0c0;
+  text-decoration: none;
+}
+
+#site-nav li em, #services li em {
+  text-transform: uppercase;
+  font-size: 21px;
+  font-style: normal;
+}
+
+#showcase {
+  margin: 0px 40px 10px 40px;
+}
+
+/*
+#showcase a {
+  color: #c4d9d9;
+}
+*/
+
+#showcase p .highslide img {
+  border: none;
+}
+
+#showcase h2 {
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 14px;
+  padding-bottom: 14px;
+  
+}
+
+#showcase h2 strong {
+  font-size: 1.5em;
+}
+
+#slogan {
+  font-size: 42px;
+  text-align: center;
+  margin: 21px auto 0;
+  line-height: 1;
+}
+
+#home #slogan {
+  text-indent: -9999px;
+  background: url('/images/old-world-new-earth.png') no-repeat top center;
+  
+  /*
+  font-size: 2.5em;
+  font-family: Copperplate, sans-serif;
+  font-weight: bold;
+  */
+}
+
+#footer {
+  text-align: center;
+  margin: 40px auto 20px;
+  color: #fff;
+  font-size: 12px;
+}
+
+#address {
+  text-align: right;
+  width: 380px;
+  margin-right: 10px;
+}
+
+#credits {
+  width: 370px;
+  margin-left: 10px;
+}
+
+/* Second Level Pages */
+
+#page-title {
+  text-indent: -9999px;
+}
+
+#description, #get-in-touch, #creating-space-philosophy, #extended-description {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1;
+  margin-top: 10px;
+}
+
+#description, #get-in-touch, #creating-space-philosophy {
+  color: #fff;
+}
+
+#creating-space-description em {
+  font-size: 18px;
+  font-style: normal;
+}
+
+#at-super-g li {
+  margin: auto auto 1em auto;
+}
+
+#extended-description {
+  color: #000;
+  margin-top: 20px;
+}
+
+#every-process {
+}
+
+#every-process p:first-letter, #mass-produced p:first-letter {
+  font-size: 300%;
+}
+
+#tao-te-ching {
+  width: 450px;
+  color: #fff;
+  text-align: center;
+}
+
+#tao-te-ching img {
+  margin-top: 40px;
+}
+
+#tao-te-ching h3 {
+  color: #fff;
+  font-size: 17px;
+  margin: 5px auto 2px;
+}
+
+#tao-te-ching blockquote {
+  margin: 0;
+}
+
+#tao-te-ching p {
+  font-size: 12px;
+  margin: 2px auto;
+}
+
+#tao-te-ching blockquote {
+  margin-right: 0;
+  color: #fff;
+  font-style: normal;
+}
+
+#every-process p, #mass-produced p {
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 5px;
+  
+}
+
+#mass-produced {
+  margin-top: 0px;
+}
+
+#mass-produced p {
+}
+
+#description, #creating-space-philosophy {
+  text-align: center;
+  line-height: 1.33;
+}
+
+#description em {
+  font-size: 1.25em;
+  font-style: normal;
+}
+
+/* Working Philosophy Styles */
+
+h2.working-philosophy {
+  background: url('/images/working-philosophy.png') no-repeat top center;
+}
+
+#ground-and-enliven {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 34px;
+  text-align: center;
+  color: #fff;
+}
+
+#ground-and-enliven strong {
+  font-weight: normal;
+}
+
+#ground-and-enliven em {
+  font-style: normal;
+  text-transform: uppercase;
+  font-size: 43px;
+}
+
+p.citation {
+  font-style: italic;
+}
+
+h2.about-team-g {
+  background: url('/images/about-team-g.png') no-repeat top center;
+}
+
+.personality-color {
+  clear: left;
+  height: 50px;
+  width: 50px;
+  border: 2px solid #fff;
+}
+
+#dan.personality-color { background: #4A3301; margin: 45px 60px 45px 0; }
+#ann.personality-color { background: #930; margin: 40px 60px 40px 0; }
+#benelli.personality-color { background: #366; margin: 38px 60px 38px 0; }
+#nam.personality-color { background: #f60; margin: 28px 60px 28px 0; }
+
+.personality-description {
+  margin-top: 15px;
+  text-align: left;
+}
+
+.personality-description ul {
+  margin: 0;
+}
+
+.personality-description ul li {
+  list-style: none;
+}
+
+.personality-description .name {
+  font-size: 1.3em;
+}
+
+/* Get in Touch */
+
+h2.get-in-touch {
+  background: url('/images/get-in-touch.png') no-repeat top center;
+}
+
+#get-in-touch p {
+  margin-left: 0px;
+}
+
+#get-in-touch ul {
+  padding: 0 20px;
+  font-size: 18px;
+}
+
+#get-in-touch ul li {
+  list-style: none;
+  margin: 8px 0;
+}
+
+#get-in-touch ul li a[href^="mailto"] { 
+  font-size: 16px;
+}
+
+#get-in-touch .thank-you {
+  font-size: 18px;
+}
+
+/* Get in Touch */
+
+h2.creating-space {
+  background: url('/images/creating-space.png') no-repeat top center;
+}
+
+#creating-space-philosophy #spaces, #creating-space-philosophy #team-g {
+  color: #000;
+}
+
+#creating-space-philosophy #spaces h3, #creating-space-philosophy #team-g h3 {
+  color: #fff;
+}
+
+#creating-space-philosophy #team-g {
+  text-align: right;
+}
+
+#creating-space-philosophy #team-g ul {
+  padding: 0;
+  margin: auto 0 1.5em;
+}
+
+#creating-space-philosophy #team-g ul li {
+  list-style: none;
+}
+
+#creating-space-philosophy em {
+  font-size: 1.5em;
+  font-style: normal;
+}
+
+#creating-and-holding-space {
+  text-align: left;
+  font-size: 14px;
+  font-family: Verdana, Arial, sans-serif;
+}
+
+#creating-and-holding-space h3 {
+  font-size: 1.6em;
+  color: #fff;
+  margin-bottom: 3px;
+}
+
+#holding-space-description {
+  margin-top: 3em;
+}
+
+#spaces-contact {
+  font-size: 1.6em;
+  text-align: right;
+}
+
+#spaces-contact .phone {
+  color: #fff;
+}
+
+/* Galleries */
+
+.quote {
+  text-indent: -9999px;
+  
+  width: 570px;
+  margin-left: 110px;
+  
+}
+
+#exhibits #showcase, #wheels #showcase, #furniture #showcase, #cabinetry #showcase {
+  width:570px;
+  text-align:right;
+}
+
+#exhibits-quote {
+  background: url('/images/quote-exhibits.png') no-repeat top center;
+  height: 182px;
+}
+
+#furniture-quote {
+  background: url('/images/quote-furniture.png') no-repeat top center;
+  height: 170px;
+}
+
+#cabinetry-quote {
+  background: url('/images/quote-cabinetry.png') no-repeat top center;
+  height: 204px;
+}
+
+#wheels-quote {
+  background: url('/images/quote-wheels.png') no-repeat top center;
+  height: 175px;
+}
+
+#thumbnail-wrapper {
+  text-align: center;
+  margin-left: 45px;
+}
+
+.thumbnail {
+  margin: 20px 0 0 20px;
+}
+
+.thumbnail img {
+/*  border: 7px solid #89837f; */
+  border: 7px solid #fff;
+  width: 136px;
+  height: 136px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
