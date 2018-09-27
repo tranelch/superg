@@ -19,11 +19,11 @@ small {
 
 #content {
   background:url('/images/content-bg-669900-80-percent-opacity.png');
-  margin: 0 auto 40px;
-  margin-top: 48px;
+  margin: 48px auto 40px;
   min-height: 600px;
   -moz-border-radius: 20px;
   -webkit-border-radius: 20px;
+  text-align: center;
 }
 
 #logo-nav-wrapper {
@@ -132,7 +132,7 @@ small {
 }
 
 #showcase {
-  margin: 0px 40px 10px 40px;
+  margin: 0px auto 10px;
 }
 
 /*
@@ -158,10 +158,14 @@ small {
   font-size: 1.5em;
 }
 
+#video {
+  margin: 0px auto 10px;
+}
+
 #slogan {
   font-size: 42px;
   text-align: center;
-  margin: 21px auto 0;
+  margin: 21px auto;
   line-height: 1;
 }
 
